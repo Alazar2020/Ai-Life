@@ -1,0 +1,5 @@
+{
+  "name": "Conway's AI Life",
+  "description": "A high-performance implementation of Conway's Game of Life featuring a canvas-based rendering engine and Generative AI for custom pattern creation.",
+  "requestFramePermissions": []
+}
